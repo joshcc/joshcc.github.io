@@ -13,7 +13,7 @@
   child: true
   publish: true
 
-- topic: How to put a monkey inside a box
+- topic: Create a simple spreadsheet in LibreOffice Calc
   filename: t-boxing.html
   child: true
   publish: true
