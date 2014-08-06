@@ -15,10 +15,10 @@
 
 - topic: How to put a monkey inside a box
   filename: t-boxing.html
-  child: false
+  child: true
   publish: true
 
 - topic: Nutritional recommendations for monkeys
   filename: r-nutrition.html
-  child: false
+  child: true
   publish: true
